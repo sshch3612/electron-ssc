@@ -14,6 +14,7 @@ function createWindow () {
 
   // and load the index.html of the app.
   mainWindow.loadFile('index.html')
+  // mainWindow.loadURL('https://www.kancloud.cn/marswill/dark2_document/709098')
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
